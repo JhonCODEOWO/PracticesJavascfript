@@ -1,0 +1,27 @@
+3 opciones para escribir código en css
+
+1. Estilos en linea
+Al usar esto todo se añade directamente en html
+
+2. Usar block style
+Se añade <style> en el head de html y a continuación los estilos para el html
+
+3. Usar archivo .css
+Se crea un archivo y se referencía en el head de el html
+
+
+Selectores CSS básicos:
+
+Selector de tipo:
+Al escribir un elemento de manera literal se aplicarán los estilos a todos los elementos dentro de un html sin especificidad.
+
+Selector de clase:
+Selecciona todos los elementos que tienen un atributo class específicado y con el mismo nombre de clase.
+
+Selector de ID:
+
+
+Selector universal:
+Es un Selector que va a seleccionar todos los elementos sin distinción.
+
+
